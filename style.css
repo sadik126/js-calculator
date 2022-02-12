@@ -21,3 +21,9 @@ button {
   height: 60px;
   border-radius: 22px;
 }
+
+.calculator {
+  display: inline-block;
+  background-color: aqua;
+  border-radius: 20px;
+}
