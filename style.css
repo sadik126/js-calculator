@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  padding-top: 20px;
+}
+
+input {
+  font-size: 25px;
+}
+
+button {
+  font-size: 30px;
+  background-color: rgb(224, 129, 129);
+  width: 65px;
+  height: 45px;
+}
